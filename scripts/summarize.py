@@ -3,7 +3,7 @@
     python scripts/summarize.py jobs [more job folders]
 
 For each system (agent and model) it reports, over the tasks it was scored on, the mean score
-(100 times the reward: 0 = the starter, 100 = the problem's limit) and the mean score per area.
+(100 times the reward: 0 = the starter, 100 = the upper bound) and the mean score per area.
 A trial that ended in an error other than the agent's time limit, such as an API error or a
 container failure, is not counted; run the task again. When a task has more than one counted
 trial, the earliest counts. Below the table, the paper's agents are scored on the same tasks.

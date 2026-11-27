@@ -14,7 +14,7 @@
   <a href="#quick-start">Quick start</a>
 </p>
 
-REE is a benchmark that tests AI agents on scientific research. Each of its 100 open-ended research problems, drawn from active research in its field and reviewed by domain experts, gives the agent a statement, a working starter solution and development data, and up to twelve hours to improve the solution on its own. Held-out test instances it never sees evaluate the result, on one scale from the starter solution (0) to the upper bound of the task's metric (100), and beside it an established human-designed solution to the same problem, the expert solution, evaluated on the same instances under comparable conditions.
+REE is a benchmark that tests AI agents on scientific research. Each of its 100 open-ended research problems, drawn from active research in its field and reviewed by domain experts, gives the agent a statement, a working starter solution and development data, and up to twelve hours to improve the solution on its own. Held-out test instances it never sees evaluate the result, on one scale from the starter solution (0) to the upper bound of the task's metric (100), and beside it the expert solution, the strongest established human-designed solution to the same problem that is publicly available and can be run within the budget of the task, evaluated on the same instances under comparable conditions.
 
 The problems span 23 domains in five areas: Mathematics & Computing (20), Physical Sciences & Engineering (25), Life & Health Sciences (19), Earth & Environmental Sciences (12) and Language, Society & Culture (24).
 
@@ -59,7 +59,7 @@ python scripts/summarize.py jobs
 
 `fetch.sh` downloads the task from Hugging Face into `REE/tasks/` and restores the executable bits that Hugging Face does not store. It also takes an area (`math`, `physical`, `life`, `earth` or `language`) or `all`. Keep `task.toml` and the task's files as they are, since a changed task is not the task scored here.
 
-The grader reruns the submitted solution on every held-out test instance under the time limits its statement sets, so a score depends on the CPU time a trial actually gets. Give each trial its own cores and run no more trials at once than the machine has free sets of four, for instance with `-n 1`.
+The grader reruns the final solution on every held-out test instance under the time limits its statement sets, so a score depends on the CPU time a trial actually gets. Give each trial its own cores and run no more trials at once than the machine has free sets of four, for instance with `-n 1`.
 
 ## Running an agent
 
@@ -112,6 +112,17 @@ For comparable results:
 ## Scoring
 
 Each task's metric scores the solution on the held-out test instances, in its own units. The reward places that score on a line through two anchors: the starter solution's score reads 0 and the upper bound reads 1. On most tasks the upper bound is the best value the metric can take by definition, such as an F1 of 1 or an error of zero. The reward is clipped to [0, 1], so a score below the starter's, a failed build or a failed grader reads 0. The verifier writes it to `jobs/<job>/<trial>/verifier/reward.json`. Next to it, `score_details.json` keeps the task's own score (`raw_score`), the two anchors (`reward_scale`) and the value before clipping (`reward_unclipped`). The tables report 100 times the reward, averaged over tasks.
+
+## Expert solutions
+
+The expert solution of a task is the strongest established human-designed solution to its problem that is publicly
+available and can be run within the budget of the task, judged by its reported performance on the problem. Where
+reported performance does not separate the candidates, we prefer, in this order, an entry in the problem's organized
+evaluation, a method published for the problem, a reference method or a released tool, and a standard method of the
+field. These four kinds account for 24, 36, 29 and 11 of the 100 tasks. An expert solution is not a one-to-one
+reproduction of its published original. It is configured as the agent's solution is: it reads and writes the formats
+of the task, it is fitted on the development data only, and it runs offline within the time limits of the task. Its
+score, the expert baseline, can therefore differ from the best result reported for the problem in the literature.
 
 ## License
 
