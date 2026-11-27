@@ -1,0 +1,401 @@
+task	area	domain	agent	harness	score
+acoustic_flight_lab	Physical Sciences & Engineering	Acoustics	Claude Opus 5.5	Claude Code 2.1	64.8
+acoustic_flight_lab	Physical Sciences & Engineering	Acoustics	GPT-6.1 Sol	Codex CLI 0.154.0	67.2
+acoustic_flight_lab	Physical Sciences & Engineering	Acoustics	GLM-5.3	Claude Code 2.1	36.6
+acoustic_flight_lab	Physical Sciences & Engineering	Acoustics	Grok 4.7	Claude Code 2.1	17.4
+acoustic_scene_lab	Physical Sciences & Engineering	Acoustics	Claude Opus 5.5	Claude Code 2.1	68.1
+acoustic_scene_lab	Physical Sciences & Engineering	Acoustics	GPT-6.1 Sol	Codex CLI 0.154.0	45.7
+acoustic_scene_lab	Physical Sciences & Engineering	Acoustics	GLM-5.3	Claude Code 2.1	62.6
+acoustic_scene_lab	Physical Sciences & Engineering	Acoustics	Grok 4.7	Claude Code 2.1	45.2
+adaptive_search	Mathematics & Computing	Continuous & black-box optimization	Claude Opus 5.5	Claude Code 2.1	60.9
+adaptive_search	Mathematics & Computing	Continuous & black-box optimization	GPT-6.1 Sol	Codex CLI 0.154.0	69.7
+adaptive_search	Mathematics & Computing	Continuous & black-box optimization	GLM-5.3	Claude Code 2.1	46.8
+adaptive_search	Mathematics & Computing	Continuous & black-box optimization	Grok 4.7	Claude Code 2.1	41.9
+adsorption_laboratory	Physical Sciences & Engineering	Materials science	Claude Opus 5.5	Claude Code 2.1	60.3
+adsorption_laboratory	Physical Sciences & Engineering	Materials science	GPT-6.1 Sol	Codex CLI 0.154.0	65.2
+adsorption_laboratory	Physical Sciences & Engineering	Materials science	GLM-5.3	Claude Code 2.1	56.0
+adsorption_laboratory	Physical Sciences & Engineering	Materials science	Grok 4.7	Claude Code 2.1	48.4
+authorship_lab	Language, Society & Culture	Stylometry & media studies	Claude Opus 5.5	Claude Code 2.1	62.8
+authorship_lab	Language, Society & Culture	Stylometry & media studies	GPT-6.1 Sol	Codex CLI 0.154.0	57.7
+authorship_lab	Language, Society & Culture	Stylometry & media studies	GLM-5.3	Claude Code 2.1	45.4
+authorship_lab	Language, Society & Culture	Stylometry & media studies	Grok 4.7	Claude Code 2.1	42.5
+ball_sorting_arena	Mathematics & Computing	Algorithms & discrete mathematics	Claude Opus 5.5	Claude Code 2.1	52.3
+ball_sorting_arena	Mathematics & Computing	Algorithms & discrete mathematics	GPT-6.1 Sol	Codex CLI 0.154.0	52.2
+ball_sorting_arena	Mathematics & Computing	Algorithms & discrete mathematics	GLM-5.3	Claude Code 2.1	27.7
+ball_sorting_arena	Mathematics & Computing	Algorithms & discrete mathematics	Grok 4.7	Claude Code 2.1	14.1
+bibliographic_archive	Language, Society & Culture	Science of science	Claude Opus 5.5	Claude Code 2.1	15.8
+bibliographic_archive	Language, Society & Culture	Science of science	GPT-6.1 Sol	Codex CLI 0.154.0	23.8
+bibliographic_archive	Language, Society & Culture	Science of science	GLM-5.3	Claude Code 2.1	14.3
+bibliographic_archive	Language, Society & Culture	Science of science	Grok 4.7	Claude Code 2.1	13.1
+bibliometric_lab	Language, Society & Culture	Science of science	Claude Opus 5.5	Claude Code 2.1	45.9
+bibliometric_lab	Language, Society & Culture	Science of science	GPT-6.1 Sol	Codex CLI 0.154.0	26.7
+bibliometric_lab	Language, Society & Culture	Science of science	GLM-5.3	Claude Code 2.1	0.0
+bibliometric_lab	Language, Society & Culture	Science of science	Grok 4.7	Claude Code 2.1	28.4
+bicycle_studio	Physical Sciences & Engineering	Engineering & signal processing	Claude Opus 5.5	Claude Code 2.1	10.5
+bicycle_studio	Physical Sciences & Engineering	Engineering & signal processing	GPT-6.1 Sol	Codex CLI 0.154.0	17.9
+bicycle_studio	Physical Sciences & Engineering	Engineering & signal processing	GLM-5.3	Claude Code 2.1	7.7
+bicycle_studio	Physical Sciences & Engineering	Engineering & signal processing	Grok 4.7	Claude Code 2.1	13.3
+binding_lab	Physical Sciences & Engineering	Chemistry	Claude Opus 5.5	Claude Code 2.1	10.1
+binding_lab	Physical Sciences & Engineering	Chemistry	GPT-6.1 Sol	Codex CLI 0.154.0	14.6
+binding_lab	Physical Sciences & Engineering	Chemistry	GLM-5.3	Claude Code 2.1	10.9
+binding_lab	Physical Sciences & Engineering	Chemistry	Grok 4.7	Claude Code 2.1	0.0
+biomedical_passages	Life & Health Sciences	Molecular biology & genomics	Claude Opus 5.5	Claude Code 2.1	29.6
+biomedical_passages	Life & Health Sciences	Molecular biology & genomics	GPT-6.1 Sol	Codex CLI 0.154.0	36.4
+biomedical_passages	Life & Health Sciences	Molecular biology & genomics	GLM-5.3	Claude Code 2.1	24.7
+biomedical_passages	Life & Health Sciences	Molecular biology & genomics	Grok 4.7	Claude Code 2.1	16.0
+bulk_modulus_lab	Physical Sciences & Engineering	Materials science	Claude Opus 5.5	Claude Code 2.1	62.5
+bulk_modulus_lab	Physical Sciences & Engineering	Materials science	GPT-6.1 Sol	Codex CLI 0.154.0	67.9
+bulk_modulus_lab	Physical Sciences & Engineering	Materials science	GLM-5.3	Claude Code 2.1	59.3
+bulk_modulus_lab	Physical Sciences & Engineering	Materials science	Grok 4.7	Claude Code 2.1	57.2
+cell_geometry	Life & Health Sciences	Molecular biology & genomics	Claude Opus 5.5	Claude Code 2.1	28.8
+cell_geometry	Life & Health Sciences	Molecular biology & genomics	GPT-6.1 Sol	Codex CLI 0.154.0	14.1
+cell_geometry	Life & Health Sciences	Molecular biology & genomics	GLM-5.3	Claude Code 2.1	0.0
+cell_geometry	Life & Health Sciences	Molecular biology & genomics	Grok 4.7	Claude Code 2.1	0.0
+cell_lab	Life & Health Sciences	Molecular biology & genomics	Claude Opus 5.5	Claude Code 2.1	14.7
+cell_lab	Life & Health Sciences	Molecular biology & genomics	GPT-6.1 Sol	Codex CLI 0.154.0	16.9
+cell_lab	Life & Health Sciences	Molecular biology & genomics	GLM-5.3	Claude Code 2.1	13.1
+cell_lab	Life & Health Sciences	Molecular biology & genomics	Grok 4.7	Claude Code 2.1	13.4
+chess_mate_distance	Mathematics & Computing	Automated reasoning & games	Claude Opus 5.5	Claude Code 2.1	42.6
+chess_mate_distance	Mathematics & Computing	Automated reasoning & games	GPT-6.1 Sol	Codex CLI 0.154.0	51.6
+chess_mate_distance	Mathematics & Computing	Automated reasoning & games	GLM-5.3	Claude Code 2.1	7.6
+chess_mate_distance	Mathematics & Computing	Automated reasoning & games	Grok 4.7	Claude Code 2.1	34.2
+circuit_workshop	Mathematics & Computing	Algorithms & discrete mathematics	Claude Opus 5.5	Claude Code 2.1	38.8
+circuit_workshop	Mathematics & Computing	Algorithms & discrete mathematics	GPT-6.1 Sol	Codex CLI 0.154.0	37.6
+circuit_workshop	Mathematics & Computing	Algorithms & discrete mathematics	GLM-5.3	Claude Code 2.1	28.1
+circuit_workshop	Mathematics & Computing	Algorithms & discrete mathematics	Grok 4.7	Claude Code 2.1	28.1
+circular_warehouse	Mathematics & Computing	Operations research & planning	Claude Opus 5.5	Claude Code 2.1	35.3
+circular_warehouse	Mathematics & Computing	Operations research & planning	GPT-6.1 Sol	Codex CLI 0.154.0	29.6
+circular_warehouse	Mathematics & Computing	Operations research & planning	GLM-5.3	Claude Code 2.1	21.8
+circular_warehouse	Mathematics & Computing	Operations research & planning	Grok 4.7	Claude Code 2.1	25.1
+citation_library	Language, Society & Culture	Science of science	Claude Opus 5.5	Claude Code 2.1	39.6
+citation_library	Language, Society & Culture	Science of science	GPT-6.1 Sol	Codex CLI 0.154.0	45.4
+citation_library	Language, Society & Culture	Science of science	GLM-5.3	Claude Code 2.1	38.7
+citation_library	Language, Society & Culture	Science of science	Grok 4.7	Claude Code 2.1	37.6
+city_air_service	Earth & Environmental Sciences	Water, air & climate	Claude Opus 5.5	Claude Code 2.1	29.5
+city_air_service	Earth & Environmental Sciences	Water, air & climate	GPT-6.1 Sol	Codex CLI 0.154.0	27.9
+city_air_service	Earth & Environmental Sciences	Water, air & climate	GLM-5.3	Claude Code 2.1	26.2
+city_air_service	Earth & Environmental Sciences	Water, air & climate	Grok 4.7	Claude Code 2.1	16.4
+classification_lab	Mathematics & Computing	Statistical learning & forecasting	Claude Opus 5.5	Claude Code 2.1	33.6
+classification_lab	Mathematics & Computing	Statistical learning & forecasting	GPT-6.1 Sol	Codex CLI 0.154.0	28.1
+classification_lab	Mathematics & Computing	Statistical learning & forecasting	GLM-5.3	Claude Code 2.1	23.5
+classification_lab	Mathematics & Computing	Statistical learning & forecasting	Grok 4.7	Claude Code 2.1	26.8
+combination_assay_lab	Life & Health Sciences	Molecular biology & genomics	Claude Opus 5.5	Claude Code 2.1	26.9
+combination_assay_lab	Life & Health Sciences	Molecular biology & genomics	GPT-6.1 Sol	Codex CLI 0.154.0	14.6
+combination_assay_lab	Life & Health Sciences	Molecular biology & genomics	GLM-5.3	Claude Code 2.1	6.2
+combination_assay_lab	Life & Health Sciences	Molecular biology & genomics	Grok 4.7	Claude Code 2.1	15.2
+community_forum	Language, Society & Culture	Information & knowledge systems	Claude Opus 5.5	Claude Code 2.1	8.2
+community_forum	Language, Society & Culture	Information & knowledge systems	GPT-6.1 Sol	Codex CLI 0.154.0	6.2
+community_forum	Language, Society & Culture	Information & knowledge systems	GLM-5.3	Claude Code 2.1	4.7
+community_forum	Language, Society & Culture	Information & knowledge systems	Grok 4.7	Claude Code 2.1	4.2
+conditioning_lab	Life & Health Sciences	Neuroscience	Claude Opus 5.5	Claude Code 2.1	50.8
+conditioning_lab	Life & Health Sciences	Neuroscience	GPT-6.1 Sol	Codex CLI 0.154.0	59.3
+conditioning_lab	Life & Health Sciences	Neuroscience	GLM-5.3	Claude Code 2.1	47.0
+conditioning_lab	Life & Health Sciences	Neuroscience	Grok 4.7	Claude Code 2.1	24.3
+container_terminal	Mathematics & Computing	Operations research & planning	Claude Opus 5.5	Claude Code 2.1	71.3
+container_terminal	Mathematics & Computing	Operations research & planning	GPT-6.1 Sol	Codex CLI 0.154.0	81.7
+container_terminal	Mathematics & Computing	Operations research & planning	GLM-5.3	Claude Code 2.1	67.3
+container_terminal	Mathematics & Computing	Operations research & planning	Grok 4.7	Claude Code 2.1	16.8
+delivery_depot	Mathematics & Computing	Operations research & planning	Claude Opus 5.5	Claude Code 2.1	39.3
+delivery_depot	Mathematics & Computing	Operations research & planning	GPT-6.1 Sol	Codex CLI 0.154.0	28.2
+delivery_depot	Mathematics & Computing	Operations research & planning	GLM-5.3	Claude Code 2.1	24.3
+delivery_depot	Mathematics & Computing	Operations research & planning	Grok 4.7	Claude Code 2.1	25.5
+document_lab	Language, Society & Culture	Stylometry & media studies	Claude Opus 5.5	Claude Code 2.1	27.5
+document_lab	Language, Society & Culture	Stylometry & media studies	GPT-6.1 Sol	Codex CLI 0.154.0	32.7
+document_lab	Language, Society & Culture	Stylometry & media studies	GLM-5.3	Claude Code 2.1	20.2
+document_lab	Language, Society & Culture	Stylometry & media studies	Grok 4.7	Claude Code 2.1	16.2
+driving_archive	Physical Sciences & Engineering	Engineering & signal processing	Claude Opus 5.5	Claude Code 2.1	52.4
+driving_archive	Physical Sciences & Engineering	Engineering & signal processing	GPT-6.1 Sol	Codex CLI 0.154.0	51.8
+driving_archive	Physical Sciences & Engineering	Engineering & signal processing	GLM-5.3	Claude Code 2.1	45.0
+driving_archive	Physical Sciences & Engineering	Engineering & signal processing	Grok 4.7	Claude Code 2.1	43.8
+eeg_review_lab	Life & Health Sciences	Clinical medicine	Claude Opus 5.5	Claude Code 2.1	33.0
+eeg_review_lab	Life & Health Sciences	Clinical medicine	GPT-6.1 Sol	Codex CLI 0.154.0	18.3
+eeg_review_lab	Life & Health Sciences	Clinical medicine	GLM-5.3	Claude Code 2.1	26.9
+eeg_review_lab	Life & Health Sciences	Clinical medicine	Grok 4.7	Claude Code 2.1	15.9
+encyclopedia_desk	Language, Society & Culture	Information & knowledge systems	Claude Opus 5.5	Claude Code 2.1	10.9
+encyclopedia_desk	Language, Society & Culture	Information & knowledge systems	GPT-6.1 Sol	Codex CLI 0.154.0	18.2
+encyclopedia_desk	Language, Society & Culture	Information & knowledge systems	GLM-5.3	Claude Code 2.1	13.6
+encyclopedia_desk	Language, Society & Culture	Information & knowledge systems	Grok 4.7	Claude Code 2.1	12.0
+encyclopedia_reading	Language, Society & Culture	Information & knowledge systems	Claude Opus 5.5	Claude Code 2.1	43.6
+encyclopedia_reading	Language, Society & Culture	Information & knowledge systems	GPT-6.1 Sol	Codex CLI 0.154.0	39.7
+encyclopedia_reading	Language, Society & Culture	Information & knowledge systems	GLM-5.3	Claude Code 2.1	21.5
+encyclopedia_reading	Language, Society & Culture	Information & knowledge systems	Grok 4.7	Claude Code 2.1	0.0
+fact_review_desk	Language, Society & Culture	Information & knowledge systems	Claude Opus 5.5	Claude Code 2.1	31.8
+fact_review_desk	Language, Society & Culture	Information & knowledge systems	GPT-6.1 Sol	Codex CLI 0.154.0	30.1
+fact_review_desk	Language, Society & Culture	Information & knowledge systems	GLM-5.3	Claude Code 2.1	18.2
+fact_review_desk	Language, Society & Culture	Information & knowledge systems	Grok 4.7	Claude Code 2.1	20.2
+financial_reports	Language, Society & Culture	Economics, finance & education	Claude Opus 5.5	Claude Code 2.1	64.2
+financial_reports	Language, Society & Culture	Economics, finance & education	GPT-6.1 Sol	Codex CLI 0.154.0	68.5
+financial_reports	Language, Society & Culture	Economics, finance & education	GLM-5.3	Claude Code 2.1	57.1
+financial_reports	Language, Society & Culture	Economics, finance & education	Grok 4.7	Claude Code 2.1	0.0
+flux_tower_network	Earth & Environmental Sciences	Water, air & climate	Claude Opus 5.5	Claude Code 2.1	18.9
+flux_tower_network	Earth & Environmental Sciences	Water, air & climate	GPT-6.1 Sol	Codex CLI 0.154.0	14.9
+flux_tower_network	Earth & Environmental Sciences	Water, air & climate	GLM-5.3	Claude Code 2.1	7.0
+flux_tower_network	Earth & Environmental Sciences	Water, air & climate	Grok 4.7	Claude Code 2.1	14.4
+forecast_calibration	Earth & Environmental Sciences	Water, air & climate	Claude Opus 5.5	Claude Code 2.1	18.3
+forecast_calibration	Earth & Environmental Sciences	Water, air & climate	GPT-6.1 Sol	Codex CLI 0.154.0	17.6
+forecast_calibration	Earth & Environmental Sciences	Water, air & climate	GLM-5.3	Claude Code 2.1	15.1
+forecast_calibration	Earth & Environmental Sciences	Water, air & climate	Grok 4.7	Claude Code 2.1	15.8
+fragmentation_lab	Life & Health Sciences	Molecular biology & genomics	Claude Opus 5.5	Claude Code 2.1	58.7
+fragmentation_lab	Life & Health Sciences	Molecular biology & genomics	GPT-6.1 Sol	Codex CLI 0.154.0	57.3
+fragmentation_lab	Life & Health Sciences	Molecular biology & genomics	GLM-5.3	Claude Code 2.1	40.4
+fragmentation_lab	Life & Health Sciences	Molecular biology & genomics	Grok 4.7	Claude Code 2.1	39.9
+framework_bandgap_lab	Physical Sciences & Engineering	Materials science	Claude Opus 5.5	Claude Code 2.1	65.8
+framework_bandgap_lab	Physical Sciences & Engineering	Materials science	GPT-6.1 Sol	Codex CLI 0.154.0	54.8
+framework_bandgap_lab	Physical Sciences & Engineering	Materials science	GLM-5.3	Claude Code 2.1	58.4
+framework_bandgap_lab	Physical Sciences & Engineering	Materials science	Grok 4.7	Claude Code 2.1	58.4
+grammar_repair	Language, Society & Culture	Linguistics	Claude Opus 5.5	Claude Code 2.1	18.8
+grammar_repair	Language, Society & Culture	Linguistics	GPT-6.1 Sol	Codex CLI 0.154.0	31.8
+grammar_repair	Language, Society & Culture	Linguistics	GLM-5.3	Claude Code 2.1	12.3
+grammar_repair	Language, Society & Culture	Linguistics	Grok 4.7	Claude Code 2.1	7.5
+graph_drawing	Mathematics & Computing	Geometry & graph drawing	Claude Opus 5.5	Claude Code 2.1	45.4
+graph_drawing	Mathematics & Computing	Geometry & graph drawing	GPT-6.1 Sol	Codex CLI 0.154.0	4.0
+graph_drawing	Mathematics & Computing	Geometry & graph drawing	GLM-5.3	Claude Code 2.1	18.3
+graph_drawing	Mathematics & Computing	Geometry & graph drawing	Grok 4.7	Claude Code 2.1	17.0
+interval_state_decoding	Language, Society & Culture	Music	Claude Opus 5.5	Claude Code 2.1	47.6
+interval_state_decoding	Language, Society & Culture	Music	GPT-6.1 Sol	Codex CLI 0.154.0	50.9
+interval_state_decoding	Language, Society & Culture	Music	GLM-5.3	Claude Code 2.1	45.2
+interval_state_decoding	Language, Society & Culture	Music	Grok 4.7	Claude Code 2.1	45.0
+language_annotation	Language, Society & Culture	Linguistics	Claude Opus 5.5	Claude Code 2.1	28.4
+language_annotation	Language, Society & Culture	Linguistics	GPT-6.1 Sol	Codex CLI 0.154.0	0.0
+language_annotation	Language, Society & Culture	Linguistics	GLM-5.3	Claude Code 2.1	18.9
+language_annotation	Language, Society & Culture	Linguistics	Grok 4.7	Claude Code 2.1	1.8
+language_lab	Language, Society & Culture	Stylometry & media studies	Claude Opus 5.5	Claude Code 2.1	6.1
+language_lab	Language, Society & Culture	Stylometry & media studies	GPT-6.1 Sol	Codex CLI 0.154.0	0.0
+language_lab	Language, Society & Culture	Stylometry & media studies	GLM-5.3	Claude Code 2.1	0.0
+language_lab	Language, Society & Culture	Stylometry & media studies	Grok 4.7	Claude Code 2.1	0.0
+magma_temperature	Earth & Environmental Sciences	Solid earth & geophysics	Claude Opus 5.5	Claude Code 2.1	29.7
+magma_temperature	Earth & Environmental Sciences	Solid earth & geophysics	GPT-6.1 Sol	Codex CLI 0.154.0	32.3
+magma_temperature	Earth & Environmental Sciences	Solid earth & geophysics	GLM-5.3	Claude Code 2.1	17.5
+magma_temperature	Earth & Environmental Sciences	Solid earth & geophysics	Grok 4.7	Claude Code 2.1	25.8
+magnetic_class_lab	Physical Sciences & Engineering	Materials science	Claude Opus 5.5	Claude Code 2.1	71.8
+magnetic_class_lab	Physical Sciences & Engineering	Materials science	GPT-6.1 Sol	Codex CLI 0.154.0	72.0
+magnetic_class_lab	Physical Sciences & Engineering	Materials science	GLM-5.3	Claude Code 2.1	64.7
+magnetic_class_lab	Physical Sciences & Engineering	Materials science	Grok 4.7	Claude Code 2.1	59.4
+materials_lab	Physical Sciences & Engineering	Materials science	Claude Opus 5.5	Claude Code 2.1	28.9
+materials_lab	Physical Sciences & Engineering	Materials science	GPT-6.1 Sol	Codex CLI 0.154.0	35.2
+materials_lab	Physical Sciences & Engineering	Materials science	GLM-5.3	Claude Code 2.1	30.5
+materials_lab	Physical Sciences & Engineering	Materials science	Grok 4.7	Claude Code 2.1	0.0
+medical_text_lab	Life & Health Sciences	Clinical medicine	Claude Opus 5.5	Claude Code 2.1	44.7
+medical_text_lab	Life & Health Sciences	Clinical medicine	GPT-6.1 Sol	Codex CLI 0.154.0	32.6
+medical_text_lab	Life & Health Sciences	Clinical medicine	GLM-5.3	Claude Code 2.1	35.7
+medical_text_lab	Life & Health Sciences	Clinical medicine	Grok 4.7	Claude Code 2.1	33.3
+memory_clinic	Life & Health Sciences	Clinical medicine	Claude Opus 5.5	Claude Code 2.1	40.0
+memory_clinic	Life & Health Sciences	Clinical medicine	GPT-6.1 Sol	Codex CLI 0.154.0	43.2
+memory_clinic	Life & Health Sciences	Clinical medicine	GLM-5.3	Claude Code 2.1	34.7
+memory_clinic	Life & Health Sciences	Clinical medicine	Grok 4.7	Claude Code 2.1	29.5
+molecular_vapor_pressure	Physical Sciences & Engineering	Chemistry	Claude Opus 5.5	Claude Code 2.1	22.4
+molecular_vapor_pressure	Physical Sciences & Engineering	Chemistry	GPT-6.1 Sol	Codex CLI 0.154.0	21.4
+molecular_vapor_pressure	Physical Sciences & Engineering	Chemistry	GLM-5.3	Claude Code 2.1	18.7
+molecular_vapor_pressure	Physical Sciences & Engineering	Chemistry	Grok 4.7	Claude Code 2.1	15.3
+monitoring_stations	Earth & Environmental Sciences	Water, air & climate	Claude Opus 5.5	Claude Code 2.1	52.9
+monitoring_stations	Earth & Environmental Sciences	Water, air & climate	GPT-6.1 Sol	Codex CLI 0.154.0	44.8
+monitoring_stations	Earth & Environmental Sciences	Water, air & climate	GLM-5.3	Claude Code 2.1	0.0
+monitoring_stations	Earth & Environmental Sciences	Water, air & climate	Grok 4.7	Claude Code 2.1	43.3
+motor_control_lab	Life & Health Sciences	Neuroscience	Claude Opus 5.5	Claude Code 2.1	56.0
+motor_control_lab	Life & Health Sciences	Neuroscience	GPT-6.1 Sol	Codex CLI 0.154.0	57.4
+motor_control_lab	Life & Health Sciences	Neuroscience	GLM-5.3	Claude Code 2.1	51.8
+motor_control_lab	Life & Health Sciences	Neuroscience	Grok 4.7	Claude Code 2.1	46.3
+motor_imagery_lab	Life & Health Sciences	Neuroscience	Claude Opus 5.5	Claude Code 2.1	59.7
+motor_imagery_lab	Life & Health Sciences	Neuroscience	GPT-6.1 Sol	Codex CLI 0.154.0	53.6
+motor_imagery_lab	Life & Health Sciences	Neuroscience	GLM-5.3	Claude Code 2.1	54.1
+motor_imagery_lab	Life & Health Sciences	Neuroscience	Grok 4.7	Claude Code 2.1	47.7
+mri_reconstruction_lab	Life & Health Sciences	Clinical medicine	Claude Opus 5.5	Claude Code 2.1	3.1
+mri_reconstruction_lab	Life & Health Sciences	Clinical medicine	GPT-6.1 Sol	Codex CLI 0.154.0	4.4
+mri_reconstruction_lab	Life & Health Sciences	Clinical medicine	GLM-5.3	Claude Code 2.1	2.3
+mri_reconstruction_lab	Life & Health Sciences	Clinical medicine	Grok 4.7	Claude Code 2.1	2.0
+musical_key_lab	Language, Society & Culture	Music	Claude Opus 5.5	Claude Code 2.1	39.9
+musical_key_lab	Language, Society & Culture	Music	GPT-6.1 Sol	Codex CLI 0.154.0	36.1
+musical_key_lab	Language, Society & Culture	Music	GLM-5.3	Claude Code 2.1	34.8
+musical_key_lab	Language, Society & Culture	Music	Grok 4.7	Claude Code 2.1	30.1
+news_archive	Language, Society & Culture	Linguistics	Claude Opus 5.5	Claude Code 2.1	55.2
+news_archive	Language, Society & Culture	Linguistics	GPT-6.1 Sol	Codex CLI 0.154.0	17.3
+news_archive	Language, Society & Culture	Linguistics	GLM-5.3	Claude Code 2.1	37.5
+news_archive	Language, Society & Culture	Linguistics	Grok 4.7	Claude Code 2.1	36.3
+news_chronology	Language, Society & Culture	Linguistics	Claude Opus 5.5	Claude Code 2.1	42.5
+news_chronology	Language, Society & Culture	Linguistics	GPT-6.1 Sol	Codex CLI 0.154.0	59.4
+news_chronology	Language, Society & Culture	Linguistics	GLM-5.3	Claude Code 2.1	28.3
+news_chronology	Language, Society & Culture	Linguistics	Grok 4.7	Claude Code 2.1	47.5
+news_desk	Language, Society & Culture	Stylometry & media studies	Claude Opus 5.5	Claude Code 2.1	51.9
+news_desk	Language, Society & Culture	Stylometry & media studies	GPT-6.1 Sol	Codex CLI 0.154.0	52.7
+news_desk	Language, Society & Culture	Stylometry & media studies	GLM-5.3	Claude Code 2.1	43.7
+news_desk	Language, Society & Culture	Stylometry & media studies	Grok 4.7	Claude Code 2.1	25.2
+notarial_archive	Language, Society & Culture	Linguistics	Claude Opus 5.5	Claude Code 2.1	39.5
+notarial_archive	Language, Society & Culture	Linguistics	GPT-6.1 Sol	Codex CLI 0.154.0	47.7
+notarial_archive	Language, Society & Culture	Linguistics	GLM-5.3	Claude Code 2.1	37.9
+notarial_archive	Language, Society & Culture	Linguistics	Grok 4.7	Claude Code 2.1	31.6
+office_listening	Physical Sciences & Engineering	Acoustics	Claude Opus 5.5	Claude Code 2.1	47.5
+office_listening	Physical Sciences & Engineering	Acoustics	GPT-6.1 Sol	Codex CLI 0.154.0	57.9
+office_listening	Physical Sciences & Engineering	Acoustics	GLM-5.3	Claude Code 2.1	46.1
+office_listening	Physical Sciences & Engineering	Acoustics	Grok 4.7	Claude Code 2.1	29.7
+partial_label_lab	Mathematics & Computing	Statistical learning & forecasting	Claude Opus 5.5	Claude Code 2.1	20.8
+partial_label_lab	Mathematics & Computing	Statistical learning & forecasting	GPT-6.1 Sol	Codex CLI 0.154.0	32.0
+partial_label_lab	Mathematics & Computing	Statistical learning & forecasting	GLM-5.3	Claude Code 2.1	16.8
+partial_label_lab	Mathematics & Computing	Statistical learning & forecasting	Grok 4.7	Claude Code 2.1	18.4
+particle_collision	Physical Sciences & Engineering	Physics & astronomy	Claude Opus 5.5	Claude Code 2.1	12.7
+particle_collision	Physical Sciences & Engineering	Physics & astronomy	GPT-6.1 Sol	Codex CLI 0.154.0	12.2
+particle_collision	Physical Sciences & Engineering	Physics & astronomy	GLM-5.3	Claude Code 2.1	2.8
+particle_collision	Physical Sciences & Engineering	Physics & astronomy	Grok 4.7	Claude Code 2.1	2.3
+patient_information_desk	Life & Health Sciences	Clinical medicine	Claude Opus 5.5	Claude Code 2.1	42.0
+patient_information_desk	Life & Health Sciences	Clinical medicine	GPT-6.1 Sol	Codex CLI 0.154.0	45.5
+patient_information_desk	Life & Health Sciences	Clinical medicine	GLM-5.3	Claude Code 2.1	32.5
+patient_information_desk	Life & Health Sciences	Clinical medicine	Grok 4.7	Claude Code 2.1	32.5
+periodic_structure_response	Physical Sciences & Engineering	Materials science	Claude Opus 5.5	Claude Code 2.1	30.0
+periodic_structure_response	Physical Sciences & Engineering	Materials science	GPT-6.1 Sol	Codex CLI 0.154.0	32.3
+periodic_structure_response	Physical Sciences & Engineering	Materials science	GLM-5.3	Claude Code 2.1	26.9
+periodic_structure_response	Physical Sciences & Engineering	Materials science	Grok 4.7	Claude Code 2.1	27.8
+petrology_lab	Earth & Environmental Sciences	Solid earth & geophysics	Claude Opus 5.5	Claude Code 2.1	41.8
+petrology_lab	Earth & Environmental Sciences	Solid earth & geophysics	GPT-6.1 Sol	Codex CLI 0.154.0	39.2
+petrology_lab	Earth & Environmental Sciences	Solid earth & geophysics	GLM-5.3	Claude Code 2.1	16.4
+petrology_lab	Earth & Environmental Sciences	Solid earth & geophysics	Grok 4.7	Claude Code 2.1	6.4
+phoneme_lab	Language, Society & Culture	Linguistics	Claude Opus 5.5	Claude Code 2.1	31.6
+phoneme_lab	Language, Society & Culture	Linguistics	GPT-6.1 Sol	Codex CLI 0.154.0	32.4
+phoneme_lab	Language, Society & Culture	Linguistics	GLM-5.3	Claude Code 2.1	27.7
+phoneme_lab	Language, Society & Culture	Linguistics	Grok 4.7	Claude Code 2.1	20.8
+phylogeny_lab	Life & Health Sciences	Molecular biology & genomics	Claude Opus 5.5	Claude Code 2.1	47.0
+phylogeny_lab	Life & Health Sciences	Molecular biology & genomics	GPT-6.1 Sol	Codex CLI 0.154.0	55.5
+phylogeny_lab	Life & Health Sciences	Molecular biology & genomics	GLM-5.3	Claude Code 2.1	48.4
+phylogeny_lab	Life & Health Sciences	Molecular biology & genomics	Grok 4.7	Claude Code 2.1	49.2
+polymer_laboratory	Physical Sciences & Engineering	Chemistry	Claude Opus 5.5	Claude Code 2.1	18.4
+polymer_laboratory	Physical Sciences & Engineering	Chemistry	GPT-6.1 Sol	Codex CLI 0.154.0	26.5
+polymer_laboratory	Physical Sciences & Engineering	Chemistry	GLM-5.3	Claude Code 2.1	0.0
+polymer_laboratory	Physical Sciences & Engineering	Chemistry	Grok 4.7	Claude Code 2.1	17.8
+protein_activity	Life & Health Sciences	Molecular biology & genomics	Claude Opus 5.5	Claude Code 2.1	6.5
+protein_activity	Life & Health Sciences	Molecular biology & genomics	GPT-6.1 Sol	Codex CLI 0.154.0	12.2
+protein_activity	Life & Health Sciences	Molecular biology & genomics	GLM-5.3	Claude Code 2.1	0.0
+protein_activity	Life & Health Sciences	Molecular biology & genomics	Grok 4.7	Claude Code 2.1	0.0
+pyramid_arena	Mathematics & Computing	Algorithms & discrete mathematics	Claude Opus 5.5	Claude Code 2.1	26.0
+pyramid_arena	Mathematics & Computing	Algorithms & discrete mathematics	GPT-6.1 Sol	Codex CLI 0.154.0	31.6
+pyramid_arena	Mathematics & Computing	Algorithms & discrete mathematics	GLM-5.3	Claude Code 2.1	22.7
+pyramid_arena	Mathematics & Computing	Algorithms & discrete mathematics	Grok 4.7	Claude Code 2.1	22.1
+quantum_memory_lab	Physical Sciences & Engineering	Physics & astronomy	Claude Opus 5.5	Claude Code 2.1	15.8
+quantum_memory_lab	Physical Sciences & Engineering	Physics & astronomy	GPT-6.1 Sol	Codex CLI 0.154.0	14.2
+quantum_memory_lab	Physical Sciences & Engineering	Physics & astronomy	GLM-5.3	Claude Code 2.1	8.8
+quantum_memory_lab	Physical Sciences & Engineering	Physics & astronomy	Grok 4.7	Claude Code 2.1	12.4
+real_parameter_search	Mathematics & Computing	Continuous & black-box optimization	Claude Opus 5.5	Claude Code 2.1	72.2
+real_parameter_search	Mathematics & Computing	Continuous & black-box optimization	GPT-6.1 Sol	Codex CLI 0.154.0	61.2
+real_parameter_search	Mathematics & Computing	Continuous & black-box optimization	GLM-5.3	Claude Code 2.1	57.6
+real_parameter_search	Mathematics & Computing	Continuous & black-box optimization	Grok 4.7	Claude Code 2.1	48.0
+recording_studio	Physical Sciences & Engineering	Acoustics	Claude Opus 5.5	Claude Code 2.1	15.7
+recording_studio	Physical Sciences & Engineering	Acoustics	GPT-6.1 Sol	Codex CLI 0.154.0	6.1
+recording_studio	Physical Sciences & Engineering	Acoustics	GLM-5.3	Claude Code 2.1	11.0
+recording_studio	Physical Sciences & Engineering	Acoustics	Grok 4.7	Claude Code 2.1	0.8
+refractive_index_lab	Physical Sciences & Engineering	Materials science	Claude Opus 5.5	Claude Code 2.1	48.0
+refractive_index_lab	Physical Sciences & Engineering	Materials science	GPT-6.1 Sol	Codex CLI 0.154.0	52.4
+refractive_index_lab	Physical Sciences & Engineering	Materials science	GLM-5.3	Claude Code 2.1	44.1
+refractive_index_lab	Physical Sciences & Engineering	Materials science	Grok 4.7	Claude Code 2.1	42.4
+regulatory_lab	Life & Health Sciences	Molecular biology & genomics	Claude Opus 5.5	Claude Code 2.1	40.2
+regulatory_lab	Life & Health Sciences	Molecular biology & genomics	GPT-6.1 Sol	Codex CLI 0.154.0	71.7
+regulatory_lab	Life & Health Sciences	Molecular biology & genomics	GLM-5.3	Claude Code 2.1	25.2
+regulatory_lab	Life & Health Sciences	Molecular biology & genomics	Grok 4.7	Claude Code 2.1	23.9
+repository_catalog	Language, Society & Culture	Science of science	Claude Opus 5.5	Claude Code 2.1	50.7
+repository_catalog	Language, Society & Culture	Science of science	GPT-6.1 Sol	Codex CLI 0.154.0	61.8
+repository_catalog	Language, Society & Culture	Science of science	GLM-5.3	Claude Code 2.1	34.5
+repository_catalog	Language, Society & Culture	Science of science	Grok 4.7	Claude Code 2.1	21.3
+retail_catalog	Mathematics & Computing	Statistical learning & forecasting	Claude Opus 5.5	Claude Code 2.1	63.1
+retail_catalog	Mathematics & Computing	Statistical learning & forecasting	GPT-6.1 Sol	Codex CLI 0.154.0	68.0
+retail_catalog	Mathematics & Computing	Statistical learning & forecasting	GLM-5.3	Claude Code 2.1	61.7
+retail_catalog	Mathematics & Computing	Statistical learning & forecasting	Grok 4.7	Claude Code 2.1	59.6
+rewrite_lab	Mathematics & Computing	Automated reasoning & games	Claude Opus 5.5	Claude Code 2.1	57.3
+rewrite_lab	Mathematics & Computing	Automated reasoning & games	GPT-6.1 Sol	Codex CLI 0.154.0	25.8
+rewrite_lab	Mathematics & Computing	Automated reasoning & games	GLM-5.3	Claude Code 2.1	48.3
+rewrite_lab	Mathematics & Computing	Automated reasoning & games	Grok 4.7	Claude Code 2.1	28.1
+seismic_observatory	Earth & Environmental Sciences	Solid earth & geophysics	Claude Opus 5.5	Claude Code 2.1	41.6
+seismic_observatory	Earth & Environmental Sciences	Solid earth & geophysics	GPT-6.1 Sol	Codex CLI 0.154.0	2.9
+seismic_observatory	Earth & Environmental Sciences	Solid earth & geophysics	GLM-5.3	Claude Code 2.1	20.1
+seismic_observatory	Earth & Environmental Sciences	Solid earth & geophysics	Grok 4.7	Claude Code 2.1	1.8
+sentence_lab	Language, Society & Culture	Linguistics	Claude Opus 5.5	Claude Code 2.1	38.6
+sentence_lab	Language, Society & Culture	Linguistics	GPT-6.1 Sol	Codex CLI 0.154.0	46.5
+sentence_lab	Language, Society & Culture	Linguistics	GLM-5.3	Claude Code 2.1	37.2
+sentence_lab	Language, Society & Culture	Linguistics	Grok 4.7	Claude Code 2.1	41.2
+separation_studio	Physical Sciences & Engineering	Acoustics	Claude Opus 5.5	Claude Code 2.1	18.7
+separation_studio	Physical Sciences & Engineering	Acoustics	GPT-6.1 Sol	Codex CLI 0.154.0	33.2
+separation_studio	Physical Sciences & Engineering	Acoustics	GLM-5.3	Claude Code 2.1	14.8
+separation_studio	Physical Sciences & Engineering	Acoustics	Grok 4.7	Claude Code 2.1	13.3
+sequence_analysis	Mathematics & Computing	Statistical learning & forecasting	Claude Opus 5.5	Claude Code 2.1	40.1
+sequence_analysis	Mathematics & Computing	Statistical learning & forecasting	GPT-6.1 Sol	Codex CLI 0.154.0	56.0
+sequence_analysis	Mathematics & Computing	Statistical learning & forecasting	GLM-5.3	Claude Code 2.1	21.2
+sequence_analysis	Mathematics & Computing	Statistical learning & forecasting	Grok 4.7	Claude Code 2.1	15.7
+signed_point_coverage	Mathematics & Computing	Geometry & graph drawing	Claude Opus 5.5	Claude Code 2.1	69.2
+signed_point_coverage	Mathematics & Computing	Geometry & graph drawing	GPT-6.1 Sol	Codex CLI 0.154.0	70.9
+signed_point_coverage	Mathematics & Computing	Geometry & graph drawing	GLM-5.3	Claude Code 2.1	58.4
+signed_point_coverage	Mathematics & Computing	Geometry & graph drawing	Grok 4.7	Claude Code 2.1	56.6
+snake_grid	Mathematics & Computing	Operations research & planning	Claude Opus 5.5	Claude Code 2.1	25.8
+snake_grid	Mathematics & Computing	Operations research & planning	GPT-6.1 Sol	Codex CLI 0.154.0	24.5
+snake_grid	Mathematics & Computing	Operations research & planning	GLM-5.3	Claude Code 2.1	20.9
+snake_grid	Mathematics & Computing	Operations research & planning	Grok 4.7	Claude Code 2.1	9.3
+sorting_lab	Mathematics & Computing	Algorithms & discrete mathematics	Claude Opus 5.5	Claude Code 2.1	16.3
+sorting_lab	Mathematics & Computing	Algorithms & discrete mathematics	GPT-6.1 Sol	Codex CLI 0.154.0	16.9
+sorting_lab	Mathematics & Computing	Algorithms & discrete mathematics	GLM-5.3	Claude Code 2.1	10.3
+sorting_lab	Mathematics & Computing	Algorithms & discrete mathematics	Grok 4.7	Claude Code 2.1	10.1
+spectral_calibration_lab	Physical Sciences & Engineering	Chemistry	Claude Opus 5.5	Claude Code 2.1	58.4
+spectral_calibration_lab	Physical Sciences & Engineering	Chemistry	GPT-6.1 Sol	Codex CLI 0.154.0	2.6
+spectral_calibration_lab	Physical Sciences & Engineering	Chemistry	GLM-5.3	Claude Code 2.1	0.0
+spectral_calibration_lab	Physical Sciences & Engineering	Chemistry	Grok 4.7	Claude Code 2.1	20.2
+spectroscopy_lab	Physical Sciences & Engineering	Chemistry	Claude Opus 5.5	Claude Code 2.1	46.7
+spectroscopy_lab	Physical Sciences & Engineering	Chemistry	GPT-6.1 Sol	Codex CLI 0.154.0	34.3
+spectroscopy_lab	Physical Sciences & Engineering	Chemistry	GLM-5.3	Claude Code 2.1	33.2
+spectroscopy_lab	Physical Sciences & Engineering	Chemistry	Grok 4.7	Claude Code 2.1	34.3
+stability_from_composition	Physical Sciences & Engineering	Materials science	Claude Opus 5.5	Claude Code 2.1	46.7
+stability_from_composition	Physical Sciences & Engineering	Materials science	GPT-6.1 Sol	Codex CLI 0.154.0	52.6
+stability_from_composition	Physical Sciences & Engineering	Materials science	GLM-5.3	Claude Code 2.1	46.0
+stability_from_composition	Physical Sciences & Engineering	Materials science	Grok 4.7	Claude Code 2.1	33.6
+stability_from_structure	Physical Sciences & Engineering	Materials science	Claude Opus 5.5	Claude Code 2.1	29.3
+stability_from_structure	Physical Sciences & Engineering	Materials science	GPT-6.1 Sol	Codex CLI 0.154.0	8.9
+stability_from_structure	Physical Sciences & Engineering	Materials science	GLM-5.3	Claude Code 2.1	20.9
+stability_from_structure	Physical Sciences & Engineering	Materials science	Grok 4.7	Claude Code 2.1	11.1
+subsurface_lithology	Earth & Environmental Sciences	Solid earth & geophysics	Claude Opus 5.5	Claude Code 2.1	29.6
+subsurface_lithology	Earth & Environmental Sciences	Solid earth & geophysics	GPT-6.1 Sol	Codex CLI 0.154.0	30.8
+subsurface_lithology	Earth & Environmental Sciences	Solid earth & geophysics	GLM-5.3	Claude Code 2.1	14.1
+subsurface_lithology	Earth & Environmental Sciences	Solid earth & geophysics	Grok 4.7	Claude Code 2.1	25.4
+surface_segmentation	Physical Sciences & Engineering	Engineering & signal processing	Claude Opus 5.5	Claude Code 2.1	63.5
+surface_segmentation	Physical Sciences & Engineering	Engineering & signal processing	GPT-6.1 Sol	Codex CLI 0.154.0	63.6
+surface_segmentation	Physical Sciences & Engineering	Engineering & signal processing	GLM-5.3	Claude Code 2.1	31.8
+surface_segmentation	Physical Sciences & Engineering	Engineering & signal processing	Grok 4.7	Claude Code 2.1	56.1
+text_annotation_hall	Language, Society & Culture	Linguistics	Claude Opus 5.5	Claude Code 2.1	70.7
+text_annotation_hall	Language, Society & Culture	Linguistics	GPT-6.1 Sol	Codex CLI 0.154.0	72.6
+text_annotation_hall	Language, Society & Culture	Linguistics	GLM-5.3	Claude Code 2.1	64.9
+text_annotation_hall	Language, Society & Culture	Linguistics	Grok 4.7	Claude Code 2.1	54.4
+tractometry_lab	Life & Health Sciences	Neuroscience	Claude Opus 5.5	Claude Code 2.1	27.2
+tractometry_lab	Life & Health Sciences	Neuroscience	GPT-6.1 Sol	Codex CLI 0.154.0	23.6
+tractometry_lab	Life & Health Sciences	Neuroscience	GLM-5.3	Claude Code 2.1	24.5
+tractometry_lab	Life & Health Sciences	Neuroscience	Grok 4.7	Claude Code 2.1	19.9
+treatment_yard	Mathematics & Computing	Operations research & planning	Claude Opus 5.5	Claude Code 2.1	68.4
+treatment_yard	Mathematics & Computing	Operations research & planning	GPT-6.1 Sol	Codex CLI 0.154.0	69.6
+treatment_yard	Mathematics & Computing	Operations research & planning	GLM-5.3	Claude Code 2.1	57.5
+treatment_yard	Mathematics & Computing	Operations research & planning	Grok 4.7	Claude Code 2.1	61.8
+urban_commuting	Language, Society & Culture	Economics, finance & education	Claude Opus 5.5	Claude Code 2.1	40.8
+urban_commuting	Language, Society & Culture	Economics, finance & education	GPT-6.1 Sol	Codex CLI 0.154.0	52.8
+urban_commuting	Language, Society & Culture	Economics, finance & education	GLM-5.3	Claude Code 2.1	36.9
+urban_commuting	Language, Society & Culture	Economics, finance & education	Grok 4.7	Claude Code 2.1	31.1
+urban_mesh	Earth & Environmental Sciences	Remote sensing & planetary science	Claude Opus 5.5	Claude Code 2.1	71.4
+urban_mesh	Earth & Environmental Sciences	Remote sensing & planetary science	GPT-6.1 Sol	Codex CLI 0.154.0	71.1
+urban_mesh	Earth & Environmental Sciences	Remote sensing & planetary science	GLM-5.3	Claude Code 2.1	63.2
+urban_mesh	Earth & Environmental Sciences	Remote sensing & planetary science	Grok 4.7	Claude Code 2.1	55.4
+urban_sound_lab	Physical Sciences & Engineering	Acoustics	Claude Opus 5.5	Claude Code 2.1	29.9
+urban_sound_lab	Physical Sciences & Engineering	Acoustics	GPT-6.1 Sol	Codex CLI 0.154.0	33.8
+urban_sound_lab	Physical Sciences & Engineering	Acoustics	GLM-5.3	Claude Code 2.1	24.9
+urban_sound_lab	Physical Sciences & Engineering	Acoustics	Grok 4.7	Claude Code 2.1	16.7
+vision_eeg_lab	Life & Health Sciences	Neuroscience	Claude Opus 5.5	Claude Code 2.1	26.1
+vision_eeg_lab	Life & Health Sciences	Neuroscience	GPT-6.1 Sol	Codex CLI 0.154.0	27.3
+vision_eeg_lab	Life & Health Sciences	Neuroscience	GLM-5.3	Claude Code 2.1	23.3
+vision_eeg_lab	Life & Health Sciences	Neuroscience	Grok 4.7	Claude Code 2.1	28.3
+voxel_workshop	Mathematics & Computing	Operations research & planning	Claude Opus 5.5	Claude Code 2.1	62.6
+voxel_workshop	Mathematics & Computing	Operations research & planning	GPT-6.1 Sol	Codex CLI 0.154.0	75.0
+voxel_workshop	Mathematics & Computing	Operations research & planning	GLM-5.3	Claude Code 2.1	0.0
+voxel_workshop	Mathematics & Computing	Operations research & planning	Grok 4.7	Claude Code 2.1	0.0
+water_response_lab	Earth & Environmental Sciences	Water, air & climate	Claude Opus 5.5	Claude Code 2.1	67.3
+water_response_lab	Earth & Environmental Sciences	Water, air & climate	GPT-6.1 Sol	Codex CLI 0.154.0	57.0
+water_response_lab	Earth & Environmental Sciences	Water, air & climate	GLM-5.3	Claude Code 2.1	58.2
+water_response_lab	Earth & Environmental Sciences	Water, air & climate	Grok 4.7	Claude Code 2.1	48.6
+wildfire_dispatch	Earth & Environmental Sciences	Remote sensing & planetary science	Claude Opus 5.5	Claude Code 2.1	8.6
+wildfire_dispatch	Earth & Environmental Sciences	Remote sensing & planetary science	GPT-6.1 Sol	Codex CLI 0.154.0	10.1
+wildfire_dispatch	Earth & Environmental Sciences	Remote sensing & planetary science	GLM-5.3	Claude Code 2.1	7.0
+wildfire_dispatch	Earth & Environmental Sciences	Remote sensing & planetary science	Grok 4.7	Claude Code 2.1	5.6
+wind_power_forecasting	Earth & Environmental Sciences	Water, air & climate	Claude Opus 5.5	Claude Code 2.1	7.5
+wind_power_forecasting	Earth & Environmental Sciences	Water, air & climate	GPT-6.1 Sol	Codex CLI 0.154.0	11.8
+wind_power_forecasting	Earth & Environmental Sciences	Water, air & climate	GLM-5.3	Claude Code 2.1	8.0
+wind_power_forecasting	Earth & Environmental Sciences	Water, air & climate	Grok 4.7	Claude Code 2.1	7.7
+yeast_microscopy	Life & Health Sciences	Molecular biology & genomics	Claude Opus 5.5	Claude Code 2.1	58.5
+yeast_microscopy	Life & Health Sciences	Molecular biology & genomics	GPT-6.1 Sol	Codex CLI 0.154.0	49.6
+yeast_microscopy	Life & Health Sciences	Molecular biology & genomics	GLM-5.3	Claude Code 2.1	25.1
+yeast_microscopy	Life & Health Sciences	Molecular biology & genomics	Grok 4.7	Claude Code 2.1	22.6

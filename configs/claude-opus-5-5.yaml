@@ -1,0 +1,31 @@
+# Claude Opus 5.5 in Claude Code, set up as in the settings table of the README.
+#
+#   export ANTHROPIC_API_KEY=...
+#   harbor run -c configs/claude-opus-5-5.yaml -p REE/tasks/<task>
+#
+# Run it from the repository root: prompt_template_path is relative to the current directory.
+# Another endpoint: also export ANTHROPIC_BASE_URL (its root, without /v1) and add
+# --allow-agent-host <its host>.
+n_concurrent_trials: 1
+agent_setup_timeout_multiplier: 10
+agents:
+  - name: claude-code
+    model_name: "claude-opus-5-5[1m]"
+    extra_allowed_hosts: ["api.anthropic.com"]
+    kwargs:
+      version: "2.1.309"
+      reasoning_effort: max
+      disallowed_tools: "WebSearch,WebFetch"
+      prompt_template_path: "prompts/ree-12h.j2"
+    env:
+      ANTHROPIC_API_KEY: "${ANTHROPIC_API_KEY}"
+      ANTHROPIC_BASE_URL: "${ANTHROPIC_BASE_URL:-https://api.anthropic.com}"
+      # A twelve-hour run outlasts brief API outages: a long request timeout, and retries that keep
+      # going (without the watchdog, Claude Code stops retrying after 15 attempts).
+      API_TIMEOUT_MS: "900000"
+      CLAUDE_CODE_MAX_RETRIES: "60"
+      CLAUDE_CODE_RETRY_WATCHDOG: "1"
+      # With a base URL set, Harbor points the opus, sonnet, haiku and subagent aliases at
+      # model_name. These two cover the remaining aliases.
+      ANTHROPIC_DEFAULT_FABLE_MODEL: "claude-opus-5-5[1m]"
+      ANTHROPIC_SMALL_FAST_MODEL: "claude-opus-5-5[1m]"

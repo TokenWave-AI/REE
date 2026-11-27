@@ -1,0 +1,29 @@
+# GPT-6.1 Sol in Codex, set up as in the settings table of the README.
+#
+#   unset CODEX_FORCE_AUTH_JSON CODEX_AUTH_JSON_PATH
+#   export OPENAI_API_KEY=...
+#   harbor run -c configs/gpt-6.1-sol.yaml -p REE/tasks/<task>
+#
+# Run it from the repository root: prompt_template_path is relative to the current directory.
+# The unset keeps Harbor on the key: with either variable set it uploads a local Codex login
+# instead, and a login needs auth.openai.com, which the task's network rule blocks.
+# Another endpoint: also export OPENAI_BASE_URL (ending in /v1) and add
+# --allow-agent-host <its host>.
+# model_context_window takes effect only for a model in Codex's model catalogue; our runs' catalogue
+# listed gpt-6.1-sol. For a model the catalogue lacks, Codex 0.154.0 keeps its default window.
+n_concurrent_trials: 1
+agent_setup_timeout_multiplier: 10
+agents:
+  - name: codex
+    model_name: "gpt-6.1-sol"
+    extra_allowed_hosts: ["api.openai.com"]
+    kwargs:
+      version: "0.154.0"
+      reasoning_effort: max
+      web_search: disabled
+      prompt_template_path: "prompts/ree-12h.j2"
+      config:
+        model_context_window: 872000
+    env:
+      OPENAI_API_KEY: "${OPENAI_API_KEY}"
+      OPENAI_BASE_URL: "${OPENAI_BASE_URL:-https://api.openai.com/v1}"
